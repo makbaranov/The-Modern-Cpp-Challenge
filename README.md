@@ -1,9 +1,9 @@
-### This is fork of
+###This is fork of
 https://github.com/PacktPublishing/The-Modern-Cpp-Challenge
 
-## how to 
+##how to 
 
-### For win and visual studio 2019
+###For win and visual studio 2019
 open cmd in a folder with problem \Chapter##\problem_##
 
 mkdir build && cd build
@@ -12,4 +12,5 @@ cmake -G "Visual Studio 16 2019" -A x64 .. -DCMAKE_USE_WINSSL=ON -DCURL_WINDOWS_
 
 open Chapter##\problem_##\build\problem_##.sln
 
-right-click on project problem## in solution explorer => set as startup project
+to run unit tests set as startup problem_##_test and run
+(right-click on project problem_##_test in solution explorer => set as startup project)
