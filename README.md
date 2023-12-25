@@ -1,9 +1,9 @@
-###This is fork of
+### This is fork of
 https://github.com/PacktPublishing/The-Modern-Cpp-Challenge
 
-##how to 
+## how to 
 
-###For win and visual studio 2019
+### For win and visual studio 2019
 open cmd in a folder with problem \Chapter##\problem_##
 
 mkdir build && cd build
